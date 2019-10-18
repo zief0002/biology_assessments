@@ -1,7 +1,7 @@
 ---
 title:  "BioSQuaRE"
 date:   2019-10-18 13:59:00 +0530
-img: "biosquare-image.png"
+img: "biosquare-image.svg"
 categories: [Reasoning]
 author: "Andrew Zieffler"
 ---
