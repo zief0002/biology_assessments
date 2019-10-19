@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-title: Contact
+title: "Add an Assessment to QBEAR"
 ---
 
 Visit [my site](https://bool.netlify.com)

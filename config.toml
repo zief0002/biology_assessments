@@ -1,6 +1,6 @@
-baseurl = "https://bioassess.netlify.com/"
+baseurl = "https://qbear.netlify.com/"
 languageCode = "en-us"
-title = "Hugo Cards"
+title = "QBEAR"
 theme = "hugo-cards"
 paginate = 6
 
