@@ -1,12 +1,12 @@
 ---
-title:  "BioSQuaRE"
+title:  "BCA"
 date:   2019-10-18 13:59:00 +0530
 img: "biosquare-image.svg"
 categories: [Reasoning]
 author: "Andrew Zieffler"
 ---
 
-The Biological Science Quantitative Reasoning Exam (BioSQuaRE) assesses core quantitative skills identified in national reports (e.g.,*Bio2010*, *Vision &amp; Change*, *Scientific Foundations for Future Physicians*, *AP Bio Skills*, *Next Generation Science Standards*) that students should possess after they have completed an introductory biology sequence
+The BioCalculus Assessment (BCA) assesses core quantitative skills identified in national reports (e.g.,*Bio2010*, *Vision &amp; Change*, *Scientific Foundations for Future Physicians*, *AP Bio Skills*, *Next Generation Science Standards*) that students should possess after they have completed an introductory biology sequence
 
 <br />
 
