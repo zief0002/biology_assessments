@@ -1,10 +1,8 @@
 ---
 layout: page
 permalink: /contact/
-title: "Add an Assessment to QBEAR"
+title: "Contact"
 ---
 
-Visit [my site](https://bool.netlify.com)
-
-Insert your contact details or a contact form here.
+To get your assessment added to QBEAR, contact us at [qbear@macalaster.edu](qbear@macalaster.edu).
 
