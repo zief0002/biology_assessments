@@ -1,7 +1,7 @@
 ---
 title:  "BCA"
 date:   2019-10-18 13:59:00 +0530
-img: "biosquare-image.svg"
+img: "biocalc.svg"
 categories: [Reasoning]
 author: "Andrew Zieffler"
 ---
