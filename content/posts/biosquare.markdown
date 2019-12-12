@@ -6,78 +6,55 @@ categories: [Reasoning]
 author: "Andrew Zieffler"
 ---
 
-The Biological Science Quantitative Reasoning Exam (BioSQuaRE) assesses core quantitative skills identified in national reports (e.g.,*Bio2010*, *Vision &amp; Change*, *Scientific Foundations for Future Physicians*, *AP Bio Skills*, *Next Generation Science Standards*) that students should possess after they have completed an introductory biology sequence
-
 <br />
 
-## Assessment Information
+#### Purpose
 
-- **Website:** https://www.macalester.edu/hhmi/biosquare/
-- **Number of Items:** 29
-- **Item Format:** Selected-response
-- **Time (Estimated):** 30&ndash;40 minutes
-- **Mode of Administration:** Online (via Qualtrics)
+The Biological Science Quantitative Reasoning Exam (BioSQuaRE) assesses core quantitative skills identified in national reports (e.g.,*Bio2010*, *Vision &amp; Change*, *Scientific Foundations for Future Physicians*, *AP Bio Skills*, *Next Generation Science Standards*) that students should possess after they have completed an introductory biology sequence. Key concepts targeted include: (1) Algebra, functions, and modeling; (2) Statistics and probability; and (3) Visualization.
 
-<br />
+<p style="margin-bottom:50px;"> </p>
 
-### Key Concepts Targeted in the Assessment
+#### Population/Uses
 
-There are three general content strands targeted within BioSQuaRE: (1) Algebra, functions, and modeling; (2) Statistics and probability; and (3) Visualization. 
+BioSQuaRE scores are most useful for determining the quantitative ability level of undergraduate biology students (as a cohort) as they progress through the biology curriculum. This information can be utilized to inform curricular change and design.
 
-Nine of the items on BioSQuaRE have content related to algebra, functions, and modeling. These include content about students':
+<p style="margin-bottom:50px;"> </p>
 
-- Ability to carry out mathematical computations (e.g. predicted values from a model),
-- Understanding and interpretation of data/relationships expressed in tables, 
-- Understanding of recursive functions and relationships, and
-- Understanding of logarithmic/exponential relationships.
+#### Administration
 
-Eight of the items on BioSQuaRE have content related to statistics and probability. These include content about students':
+Online (via Qualtrics)
 
-- Understanding the role of variation in biological systems,
-- Understanding and interpretation of descriptive summaries of data, and
-- Understanding and interpretations of information related to statistical inference.
+<p style="margin-bottom:50px;"> </p>
 
-Twelve of the items on BioSQuaRE have content related to visualization. These include content about students':
+#### Number of Items
 
-- Interpretations of multivariate data presented in a graph (e.g., interactions),
-- Spatial reasoning (e.g., geographic information), and
-- Recognition of appropriate data visualization formats.
+29
 
-<br />
+<p style="margin-bottom:50px;"> </p>
 
-### Validity Evidence
+#### Time
 
-Validity evidence collected included an assessment blueprint mapping content recommended by *Bio2010*, *Vision &amp; Change*, *Scientific Foundations for Future Physicians*, *AP Bio Skills*, *Next Generation Science Standards*. This content was further reviewed by 38 faculty members from five liberal arts colleges.
+30&ndash;40 minutes 
 
+<p style="margin-bottom:50px;"> </p>
 
-The psychometric analysis (item response theory; Rasch model) used data from 555 students from five different postsecondary institutions across the United States. These institutions included two Hispanic-serving institutions, an M1 master’s university, an R1 doctoral university, and a private liberal arts college. Of the sample, 64% reported being female, and 35% reported being first-generation college students. In addition, 42% of students indicated that they identify as white, 17% as Asian, 23% as Hispanic, 3% as Black, and 10% as some other race or as multiracial. These numbers mirror those obtained through data collected in 2015 by the [National Center for Education Statistics (Table 322.30)](https://nces.ed.gov/programs/digest/d15/ tables/dt15_322.30.asp). The students in the sample reported completing a range of biology courses at the postsecondary level; 21% reported that they had completed one or fewer biology courses, 32% reported having completed two or three, and 43% reported having completed four or more.
+#### Scores/Results Reported
 
-<br />
+A report is returned with summaries of students scores. (Individual students' scores and raw data are not provided.) A comparison to the average score for all students who have taken BioSQuaRE is also provided.
 
-### Appropriate Uses/Inferences
- 
-BioSQuaRE scores are most useful for determining the quantitative ability level of students (as a cohort) as they progress through the biology curriculum. This information can be utilized to inform curricular change and design.
+<p style="margin-bottom:50px;"> </p>
 
-<br />
+#### Website/Contact
 
-### Reference(s)
+Fill out a [Google form expressing instructor interest(https://docs.google.com/forms/d/e/1FAIpQLSevIoHPbU3CQSX2Jal3QTbudNU1rvAfj_evNyK1TOkWNj0UZw/viewform), or contact [Biosquare@macalester.edu](Biosquare@macalester.edu).
+
+Read more at: https://www.macalester.edu/hhmi/biosquare/
+
+<p style="margin-bottom:50px;"> </p>
+
+#### Reference(s)
 
 Stanhope, E., Ziegler, L., Haque, T., Le, L., Vinces, M., Davis, G. K., Zieffler, A., Brodfuehrer, P., Preest, M., Belisky, J., Umbanhowar, Jr., C., &amp; Overvoorde, P. J. (2017). Development of a Biological Science Quantitative Reasoning Exam (BioSQuaRE). *CBE–Life Sciences Education, 16*(4), ar66. doi: 10.1187/cbe.16-10-0301
 
-<br />
 
-### FAQs
- 
-**Can the assessment be customized to my specific course content?** 
-No
-
-** What information is reported back to me?: 
-A report is returned with summaries of students scores. (Individual students' scores and raw data are not provided.) A comparison to the average score for all students who have taken BioSQuaRE is also provided.
-
-**How do I get access to the assessment?**
-Fill out a Google form expressing instructor interest. The form is available [here](https://docs.google.com/forms/d/e/1FAIpQLSevIoHPbU3CQSX2Jal3QTbudNU1rvAfj_evNyK1TOkWNj0UZw/viewform).
-
-
-**I have more questions about the assessment. Who do I contact?**
-Email questions to [Biosquare@macalester.edu](Biosquare@macalester.edu)
 

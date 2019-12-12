@@ -26,3 +26,5 @@ paginate = 6
      name = "QBEAR"
      link = "https://qbear.netlify.com"
 
+[blackfriday]
+  fractions = false
