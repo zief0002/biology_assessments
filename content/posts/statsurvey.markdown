@@ -1,7 +1,7 @@
 ---
 title:  "Statistics Survey"
 date:   2019-12-09
-img: "qmbugs.svg"
+img: "statsurvey.svg"
 categories: [Reasoning]
 author: "Andrew Zieffler"
 ---
