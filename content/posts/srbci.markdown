@@ -1,6 +1,6 @@
 ---
 title:  "SRBCI"
-date:   2019-10-19 14:28:00 +0530
+date:   2019-10-10
 img: "srbci.svg"
 categories: [Reasoning]
 author: "Andrew Zieffler"

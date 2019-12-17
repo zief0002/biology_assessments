@@ -1,6 +1,6 @@
 ---
 title:  "QLRA"
-date:   2019-10-19 19:53:00 +0530
+date:   2019-11-01
 img: "qlra.svg"
 categories: [Reasoning]
 author: "Andrew Zieffler"

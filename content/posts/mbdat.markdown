@@ -1,6 +1,6 @@
 ---
 title:  "MBDAT"
-date:   2019-10-19 10:23:00 +0530
+date:   2019-12-01
 img: "mbdat.svg"
 categories: [Reasoning]
 author: "Andrew Zieffler"

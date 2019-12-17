@@ -1,6 +1,6 @@
 ---
 title:  "Graph Rubric"
-date:   2019-10-19 15:20:00 +0530
+date:   2019-11-20
 img: "graph-rubric.svg"
 categories: [Reasoning]
 author: "Andrew Zieffler"

@@ -1,6 +1,6 @@
 ---
 title:  "QM BUGS"
-date:   2019-12-09
+date:   2019-10-20
 img: "qmbugs.svg"
 categories: [Reasoning]
 author: "Andrew Zieffler"

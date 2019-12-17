@@ -1,6 +1,6 @@
 ---
 title:  "MBVI"
-date:   2019-10-19 12:54:00 +0530
+date:   2019-11-10
 img: "mbvi.svg"
 categories: [Reasoning]
 author: "Andrew Zieffler"

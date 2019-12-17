@@ -1,6 +1,6 @@
 ---
 title:  "TOSLS"
-date:   2019-12-09
+date:   2019-10-01
 img: "tosls.svg"
 categories: [Reasoning]
 author: "Andrew Zieffler"
