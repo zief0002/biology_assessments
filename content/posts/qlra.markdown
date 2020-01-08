@@ -12,7 +12,7 @@ author: "Andrew Zieffler"
 
 #### Purpose
 
-The Quantitative Literacy and Reasoning Assessment (QLRA) assesses students' quantitative literacy and reasoning, defined as the skill set necessary to process quantitative information and the capacity to critique, reflect upon, and apply quantitative information in making decisions.
+The Quantitative Literacy and Reasoning Assessment (QLRA) assesses students' quantitative literacy and reasoning, defined as the skill set necessary to process quantitative information and the capacity to critique, reflect upon, and apply quantitative information in making decisions. 
 
 <p style="margin-bottom:50px;"> </p>
 
@@ -24,7 +24,7 @@ The QLRA can be utilized to provide data for undergraduate student advising and 
 
 #### Administration
 
-Unknown
+Most people administer the test online using their own Classroom Management System (e.g., Blackboard, Moodle, Canvas)
 
 <p style="margin-bottom:50px;"> </p>
 
@@ -36,7 +36,7 @@ Unknown
 
 #### Time
 
-Administration time not reported. 
+30&ndash;45 minutes 
 
 <p style="margin-bottom:50px;"> </p>
 

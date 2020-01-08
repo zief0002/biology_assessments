@@ -16,7 +16,7 @@ The Data Analysis Skills in Molecular Biology (MBDAT) assesses undergraduate bio
 
 #### Population/Uses
 
-MBDAT scores are most useful for drawing inferences about individual students' ability to analyze and interpret experimental data, to elucidate misinterpretations of data, and to measure their self-perceived confidence in their data-analysis skills. 
+MBDAT scores are most useful for drawing inferences about individual students' ability to analyze and interpret experimental data, to elucidate misinterpretations of data, and to measure their self-perceived confidence in their data-analysis skills. The ideal population for the instrument is upper-division biology students.
 
 <p style="margin-bottom:50px;"> </p>
 

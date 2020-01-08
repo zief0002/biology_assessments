@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "QBEAR"
 theme = "hugo-cards"
 paginate = 20
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   builtBy = "QBEAR"
@@ -12,7 +13,7 @@ paginate = 20
   quora = ""
   twitter = "http://twitter.com/bul_ikana"
   github = "https://github.com/zief0002/qbear"
-  email = ""
+  email = "qbear@macalester.edu"
 
   fbLikeBox = ""
   fbAppId = ""
