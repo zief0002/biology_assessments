@@ -47,7 +47,7 @@ Unknown
 
 #### Website/Contact
 
-Contact [Thomas Deane or Kathy Nomme](http://q4b.biology.ubc.ca/concept-inventories/statistical-reasoning-in-biology/) who can provide you with a password to download the SRBCI package.
+Available at http://q4b.biology.ubc.ca/concept-inventories/statistical-reasoning-in-biology/
 
 <p style="margin-bottom:50px;"> </p>
 

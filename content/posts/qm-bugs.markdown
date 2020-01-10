@@ -25,31 +25,31 @@ The assessment is intended to be given in undergraduate biology courses where in
 
 #### Administration
 
-Unknown
+QM BUGS is available as a Qualtrics online assessment. Contact the authors to get access.
 
 <p style="margin-bottom:50px;"> </p>
 
 #### Number of Items
 
-36
+38 total items; 20 multiple-choice items on quantitative biology, 6 multiple-response items on meta-modeling, and 12 Likert items on self-efficacy
 
 <p style="margin-bottom:50px;"> </p>
 
 #### Time
 
-Administration time not reported.
+1 hour
 
 <p style="margin-bottom:50px;"> </p>
 
 #### Scores/Results Reported
 
-Unknown
+Quantitative Biology score (25 points) and Quantitative Biology Self-efficacy score (48 points), Includes component scores for Quantitative Act (6 points), Quantitative Interpretation (6 points), Quantitative Modeling (8 points), Meta-Modeling (5 points and one qualitative item), and Quantitative Biology Self-efficacy (Lickert items, 48 points)
 
 <p style="margin-bottom:50px;"> </p>
 
 #### Website/Contact
 
-N/A
+Robert Mayes ([rmayes@georgiasouthern.edu](rmayes@georgiasouthern.edu)), Joe Dauer ([joseph.dauer@unl.edu](joseph.dauer@unl.edu)), or Kent Rittschof ([kent_r@georgiasouthern.edu](kent_r@georgiasouthern.edu))
 
 
 <p style="margin-bottom:50px;"> </p>
