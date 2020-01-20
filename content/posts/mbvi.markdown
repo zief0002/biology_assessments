@@ -10,7 +10,7 @@ author: "Andrew Zieffler"
 
 #### Purpose
 
-The Math–Biology Values Instrument (MBVI) measures the interest, utility, and perceived cost that undergraduate life science majors place on using math in the context of biology. The MBVI measures the value biology students place on math using three subscales: (1) interest&mdash;the enjoyment of using math to understand, (2) utility&mdash;the usefulness of math of life science, (3) perceived cost&mdash; the negative aspects of using math.
+The Math–Biology Values Instrument (MBVI) is based on expectancy-value theory of achievement motivation and measures undergraduate life science majors' task values for using math in the context of biology. The MBVI consists of three subscales: (1) interest—the enjoyment of using math to understand biology, (2) utility—the usefulness of math for a student's life science career, and (3) perceived cost&mdash;the negative aspects of using math in biology courses.
 
 <p style="margin-bottom:50px;"> </p>
 

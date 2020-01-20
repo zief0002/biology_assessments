@@ -36,7 +36,7 @@ Local administration.
 
 #### Time
 
-30 minutes 
+35 minutes 
 
 <p style="margin-bottom:50px;"> </p>
 
