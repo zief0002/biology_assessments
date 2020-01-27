@@ -16,7 +16,7 @@ The Graph Rubric is an evidence-based, analytic rubric that can be used to evalu
 
 #### Population/Uses
 
-Evaluation using the Graph Rubric could be used to inform the teaching and evaluation of data summary graphs and to provide undergraduate students with formative and summative feedback on their graphs.
+Evaluation using the Graph Rubric could be used to inform the teaching and evaluation of data summary graphs and to provide undergraduate biology students with formative and summative feedback on their graphs.
 
 <p style="margin-bottom:50px;"> </p>
 
@@ -46,13 +46,18 @@ N/A
 
 #### Website/Contact
 
-The rubric is available in the [CBE-LSE article](https://www.lifescied.org/doi/full/10.1187/cbe.18-01-0007). For more information contact [Stephanie Gardener](sgardne@purdue.edu).
+The rubric is available in the [CBE-LSE article](https://www.lifescied.org/doi/full/10.1187/cbe.18-01-0007). For more information contact [Stephanie Gardner](sgardne@purdue.edu).
 
 <p style="margin-bottom:50px;"> </p>
 
 #### Reference(s)
 
-Angra, A., &amp; Gardner, S. M. (2018). The Graph Rubric: Development of a teaching, learning, and research tool. *CBE-Life Sciences Education, 17*(4). doi: 10.1187/cbe.18-01-0007.
+Angra, A., &amp; Gardner, S. M. (2016). Development of a framework for graph choice and construction. *
+Advances in Physiology Education, 40*(1), 123&ndash;128. doi:10.1152/advan.00152.2015
+
+
+Angra, A., &amp; Gardner, S. M. (2018). The Graph Rubric: Development of a teaching, learning, and research tool. *CBE-Life Sciences Education, 17*(4). doi: 10.1187/cbe.18-01-0007
+
 
 
 
